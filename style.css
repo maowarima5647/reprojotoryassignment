@@ -1,0 +1,230 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ 
+.banner-container{
+    width: 998px;
+    height: 582px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-image: url(./assets/Hero-bg.png);
+    background-position: center;background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.banner-content img{
+    width: 240px;
+    height: 240px;
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    left: 400px;
+   
+    
+
+}
+.banner-content{
+    margin-top:320px;
+    text-align: center;
+    display: inline-block;
+    padding: 25px;
+
+}
+
+.banner-content h2{
+
+
+}
+.banner-content p{
+
+text-align: center;
+}
+.btn{
+   text-align: center;
+    padding: 15px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    margin: auto;
+
+
+}
+
+
+/*    2nd banner   */
+
+.Banner-two img{
+    
+}
+.sub-title{
+    padding: 20px;
+    text-align: center;
+}
+.sub-p{
+    font-size: 20px;
+    text-align: center;
+}
+.Banner-two{
+    width: 946px;
+    height: 976px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;`
+   
+}
+.bgc-set{
+    display: flex;
+    justify-content: space-between;
+}
+.read {
+    text-align: left;
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 35px;
+    padding: 20px;
+    margin: 45px;
+}
+.read h3{
+margin: 20px;
+}
+   .read P{
+margin: 20px;
+   }
+
+.read .btn{
+    margin:10px;
+}
+
+.vdo-banner{
+    width: 998px;
+    height: 482px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.vdo{
+ 
+   margin-top: 20px;
+    margin-left: 150px;
+}
+.carent-title{
+    width: 998px;
+    height: 382px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.carent-title{
+    text-align:center ;
+    margin-bottom: 20px;
+}
+.hcj{
+    display:flex;
+    gap:20;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.hcj p{
+    margin:20px;
+}
+.html{
+    background-color:rgb(239, 168, 152);
+    text-align: left;
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+.css{
+    background-color:rgb(173, 210, 225);
+    padding:20px;
+    border-radius:5px;
+    margin-right: 10px;
+    text-align: left;
+   
+}
+.js{
+    background-color:rgb(240, 241, 198);
+    padding:20px;
+    border-radius:5px;
+    text-align: left; margin-right: 10px;
+
+}
+/*    next target*/
+
+.next-target{
+    width: 998px;
+    height:600px;
+    margin: 0 auto;
+}
+.React{
+    margin: 20px;
+}
+.backend{
+    display: flex;
+    justify-content: space-around;
+    margin-top:40px;
+    border: 1px solid#ddd;
+}
+.Btext{
+    padding: 20px;
+    margin: 20px;
+}
+
+
+
+/*    last section*/
+
+.last-sec{
+    width: 998px;
+    height: 286px;
+    margin: 0 auto;
+    background-image: url(./assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 20px;
+}
+.last-sec p {
+    color: white;
+}
+.text{
+    padding: 15px 50px;
+    border-radius:5px;
+    margin-top: 35px;
+    border: none;
+
+}
+.submit{
+    padding:10px 30px;
+    color:black;
+    font-weight:500;
+    font-size:20px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+/*   footer  */
+.footer{
+    width: 998px;
+    height: 186px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+
+}
+.footer-left p{
+    font-size: 25px;
+    margin-top: 20px;     	;
+
+}
+.footer-right{
+ 
+    margin-top: 20px;
+}
